@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasywa/Natsu</h1>
-<h3 align="center">I am a computer science student specializing in Internet of Things (IoT), with a keen interest in robotics and application development. </h3>
+<h3 align="center">I am a computer science student specializing in Internet of Things (IoT), with a keen interest in robotics, application development, and UI/UX Design. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natsu-lab&label=Profile%20views&color=0e75b6&style=flat" alt="natsu-lab" /> </p>
 
